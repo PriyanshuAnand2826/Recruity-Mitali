@@ -1,0 +1,23 @@
+.input_field{
+  margin-top: 4%; 
+}
+
+
+.input{
+  padding: 2% 2%;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 7px;
+  width: 60%;
+}
+
+
+.btn{
+  margin-top: 5%;
+  padding: 2% 2%;
+  border-radius: 7px;
+  border: none;
+  background-color: #ED5353;
+  color: white;
+  cursor: pointer;
+}
