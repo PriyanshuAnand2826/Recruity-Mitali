@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import './App.css'
+import 'react-toastify/dist/ReactToastify.css';
 import Register from './pages/Register'
 import Login from './pages/Login'
 
